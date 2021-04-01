@@ -1,0 +1,11 @@
+[user]
+	name = b19g3r
+	email = b19g3r@gmail.com
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/b19g3r/learning-practice.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
